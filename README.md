@@ -12,7 +12,10 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 
 ## Deployed Application
 
+[Coding Quiz
+](https://royreid3rd.github.io/Coding-Quiz/)
 
+<img width="1623" alt="Screenshot 2024-04-02 at 1 25 10 PM" src="https://github.com/royreid3rd/Coding-Quiz/assets/147444145/d1619e97-0f34-4536-b508-dd08d9563a77">
 
 ## License
 
